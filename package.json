@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@progress/kendo-data-query": "latest",
+    "@progress/kendo-drawing": "latest",
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-svg-icons": "latest",
+    "@progress/kendo-vue-animation": "latest",
+    "@progress/kendo-vue-buttons": "latest",
+    "@progress/kendo-vue-data-tools": "latest",
+    "@progress/kendo-vue-dateinputs": "latest",
+    "@progress/kendo-vue-dropdowns": "latest",
+    "@progress/kendo-vue-grid": "latest",
+    "@progress/kendo-vue-indicators": "latest",
+    "@progress/kendo-vue-inputs": "latest",
+    "@progress/kendo-vue-intl": "latest",
+    "@progress/kendo-vue-labels": "latest",
+    "@progress/kendo-vue-popup": "latest",
+    "@progress/kendo-vue-treeview": "latest",
+    "vue": "^3.0.0"
+  },
+  "description": "Example usage of Kendo UI for Vue\nSee [https://www.telerik.com/kendo-vue-ui/components/grid/scroll-modes/#toc-virtual-scrolling](https://www.telerik.com/kendo-vue-ui/components/grid/scroll-modes/#toc-virtual-scrolling)",
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0-0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0-0"
+  },
+  "tags": "Vue,Kendo UI for Vue"
+}
